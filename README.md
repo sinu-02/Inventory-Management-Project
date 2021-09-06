@@ -14,7 +14,7 @@ This is a self -made project done in ETG internship of Python Ml/AI.It is a data
   3.Gives the idea of money saved in particular purchase.
 
 ### It is a user friendy software.It keeps on updating the information of products after every purchase.
-### It also keeps the record of customers in the sales JSON file.
+### It also keeps the record of customers in the sales JSON file with exact date and time of the purchase.
 
 
 ## ABOUT AUTHOR
